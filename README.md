@@ -1,0 +1,1 @@
+This repo is for my random Vue.js projects I come across while trying to learn
